@@ -1,3 +1,3 @@
 # TikTakToe_Pygame
 
-Hello please click the tab labeled ""
+Hello please click the tab labeled "TJ.py"
